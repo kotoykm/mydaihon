@@ -1,0 +1,5 @@
+//■■■scene:00.txt.txt start■■■
+$■【Helen/00000】"Hola, soy Helen y esta es una prueba para scripts"
+$●【Karen】"¿Estás segura de que funcionará Helen?"
+$●【Luce】"Ojalá no lean lo que estoy pensando..."
+//■■■scene:00.txt.txt end■■■
